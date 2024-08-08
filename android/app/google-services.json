@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695001446740",
+    "project_id": "queue-faecd",
+    "storage_bucket": "queue-faecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695001446740:android:c7c505d42d4f38ec75f0c1",
+        "android_client_info": {
+          "package_name": "com.example.queue_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbs6sfVgKzV6A41lTuiQmcE26Vnd1Q2-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
